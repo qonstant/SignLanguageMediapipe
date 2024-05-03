@@ -130,5 +130,6 @@ Model for recognition of static words:
 
 ### Results
 
+<img width="975" alt="Result1" src="https://github.com/qonstant/SignLanguageMediapipe/assets/98641240/87954f0e-5ce1-432f-9f41-4c926f577597">
 
 
